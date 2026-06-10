@@ -55,6 +55,19 @@
 
 ###
 
+## 🏷️ Profile Badges
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Student-FPT%20University-blue?style=for-the-badge&logo=academia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Major-Artificial%20Intelligence-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Data%20Science%20%7C%20Software%20Engineering-00C7B7?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-Python%20%7C%20C%20%7C%20JavaScript-yellow?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database-SQL%20%7C%20MongoDB%20%7C%20Oracle-red?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tools-Jupyter%20%7C%20Git%20%7C%20VS%20Code-orange?style=for-the-badge&logo=jupyter&logoColor=white" />
+</p>
 
 [![](https://visitcount.itsvg.in/api?id=Xenko2005&icon=0&color=0)](https://visitcount.itsvg.in)
 
