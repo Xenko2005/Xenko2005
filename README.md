@@ -29,16 +29,27 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Xenko2005&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Xenko2005&theme=github-dark-blue&hide_border=false" alt="GitHub Streak" />
-</p>
-
 ## 🔝 Top Contributed Repo:
 
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Xenko2005&limit=5&theme=dark&order_by=contributions" alt="Top Contributed Repo" />
 </p>
 
+## 📈 GitHub Profile Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xenko2005&theme=github_dark" alt="GitHub Profile Details" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Xenko2005&theme=github_dark" alt="Top Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Xenko2005&theme=github_dark" alt="Top Languages by Commit" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Xenko2005&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Xenko2005&theme=github_dark&utcOffset=7" alt="Productive Time" />
+</p>
 ---
 
 ###
