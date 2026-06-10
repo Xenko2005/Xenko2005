@@ -29,6 +29,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Xenko2005&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Xenko2005&theme=github-dark-blue&hide_border=false" alt="GitHub Streak" />
+</p>
+
 ## 🔝 Top Contributed Repo:
 
 <p align="center">
